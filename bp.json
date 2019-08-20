@@ -1,0 +1,54 @@
+{
+  "producer_account_name": "tlosportugal",
+  "producer_public_key": "EOS5AX7LV5YXtxsMvCUZUmpkkcBaZSCJTvuWcmRCaFydNghtGV6ta",
+  "org": {
+    "candidate_name": "Telos Portugal",
+    "website": "http://telosportugal.eu",
+    "code_of_conduct":"http://telosportugal.eu",
+    "ownership_disclosure":"http://telosportugal.eu",
+    "email":"bp@telosportugal.eu",
+    "phone":"TF Registry",
+    "branding": {
+    },
+    "location": {
+      "name": "Faro",
+      "country": "PT"
+    },
+    "social": {
+      "steemit": "",
+      "twitter": "",
+      "youtube": "",
+      "facebook": "",
+      "github":"",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat":""
+    }
+  },
+  "nodes": [
+   {
+      "location": {
+        "name": "Germany",
+        "country": "DE"
+      },
+      "node_type": "full",
+      "api_endpoint": "http://api.telosportugal.eu",
+      "ssl_endpoint": "https://api.telosportugal.eu"
+    },
+    {
+      "location": {
+        "name": "Germany",
+        "country": "DE"
+      },
+      "node_type": "producer"
+    },
+    {
+      "location": {
+        "name": "Germany",
+        "country": "DE"
+      },
+      "node_type": "seed",
+      "p2p_endpoint": ""
+    }] 
+}
