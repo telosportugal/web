@@ -3,12 +3,15 @@
   "producer_public_key": "EOS5AX7LV5YXtxsMvCUZUmpkkcBaZSCJTvuWcmRCaFydNghtGV6ta",
   "org": {
     "candidate_name": "Telos Portugal",
-    "website": "http://telosportugal.eu",
-    "code_of_conduct":"http://telosportugal.eu",
-    "ownership_disclosure":"http://telosportugal.eu",
+    "website": "https://telosportugal.eu",
+    "code_of_conduct":"https://telosportugal.eu",
+    "ownership_disclosure":"https://telosportugal.eu",
     "email":"bp@telosportugal.eu",
-    "phone":"TF Registry",
+    "phone":"https://telosportugal.eu",
     "branding": {
+      "logo_256":"https://telosportugal.eu/telosportugal-logo.png",
+      "logo_1024":"https://telosportugal.eu/telosportugal-logo.png",
+      "logo_svg":"https://telosportugal.eu/telosportugal-logo.png"
     },
     "location": {
       "name": "Faro",
