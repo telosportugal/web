@@ -6,8 +6,8 @@
     "website": "https://telosportugal.eu",
     "code_of_conduct":"https://telosportugal.eu",
     "ownership_disclosure":"https://telosportugal.eu",
-    "email":"bp@telosportugal.eu",
-    "phone":"https://telosportugal.eu",
+    "email":"telos@telosportugal.eu",
+    "phone":"+351927946206",
     "branding": {
       "logo_256":"https://telosportugal.eu/telosportugal-logo.png",
       "logo_1024":"https://telosportugal.eu/telosportugal-logo.png",
@@ -18,14 +18,14 @@
       "country": "PT"
     },
     "social": {
-      "steemit": "",
-      "twitter": "",
+      "steemit": "https://medium.com/@telosportugal",
+      "twitter": "https://twitter.com/telosportugal",
       "youtube": "",
       "facebook": "",
       "github":"",
       "reddit": "",
       "keybase": "",
-      "telegram": "",
+      "telegram": "https://t.me/HelloTelos",
       "wechat":""
     }
   },
